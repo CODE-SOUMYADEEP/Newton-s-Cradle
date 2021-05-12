@@ -1,1 +1,1 @@
-# NC27
+This is newton's cradle by Soumyadeep Chakraborty
